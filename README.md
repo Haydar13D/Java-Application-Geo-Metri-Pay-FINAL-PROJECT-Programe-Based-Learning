@@ -1,4 +1,4 @@
-this app can count area and circumferenc off a geometry at the same time, andthis app have a online payment that can count and give your change in one application, that friendlu user and very cheap,here some preview
+This app can count the area and circumference of a geometry at the same time, and this app has an online payment that can count and give you your change in one application that is user-friendly and very cheap. Here are some previews: 
       ![2024-12-22 22_03_35-TugasAkhirPBO - Apache NetBeans IDE 21](https://github.com/user-attachments/assets/9262a429-cad4-4aa4-9634-4c73ba5cfae2)  -   
       this is the login page
                                             
